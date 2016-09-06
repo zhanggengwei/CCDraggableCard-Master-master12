@@ -23,6 +23,7 @@ CCDraggableContainerDelegate
 @property (weak, nonatomic) IBOutlet UIButton *likeButton;
 @property (weak, nonatomic) IBOutlet UIButton *detailBtn;
 
+
 @end
 
 @implementation ViewController
